@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LdeRQrHcc68bCXhbS/sqeBnmhK6yBNBsgwT7/yYzstw=",
+  "Source": "SampleAppForDI",
+  "BasePath": "_content/SampleAppForDI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

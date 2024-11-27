@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMOwWXKmm60=",
+  "success": true,
+  "projectFilePath": "J:\\MAUI\\104 - SampleAppForDI\\SampleAppForDI\\SampleAppForDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\swashbuckle.aspnetcore\\7.0.0\\swashbuckle.aspnetcore.7.0.0.nupkg.sha512",
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "C:\\Users\\b1nagmat2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
