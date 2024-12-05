@@ -2,5 +2,7 @@
 
 public class MainPageViewModel
 {
-    
+	public MainPageViewModel(AppDbContext context)
+	{
+	}
 }
