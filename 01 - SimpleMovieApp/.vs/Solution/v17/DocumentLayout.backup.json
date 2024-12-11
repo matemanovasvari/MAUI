@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.desktopapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.desktopapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.core\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.core\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.services\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1nagmat2\\desktop\\maui\\01 - simplemovieapp\\solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:27:01.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Views\\MainPage.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T08:04:47.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainPageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
               "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
               "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:03:15.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:04:03.666Z",
+              "WhenOpened": "2024-12-11T08:23:12.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MovieModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Core\\Models\\MovieModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\MovieModel.cs",
-              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Core\\Models\\MovieModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\MovieModel.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAsAAAAAAAAAA==",
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Services\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GlobalImports.cs",
+              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Services\\GlobalImports.cs",
+              "RelativeToolTip": "Solution.Services\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:23:10.122Z",
+              "WhenOpened": "2024-12-11T08:16:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Services\\MovieService.cs",
+              "RelativeToolTip": "Solution.Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:07:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Core\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.Core\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:06:13.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureDI.cs",
+              "DocumentMoniker": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ToolTip": "C:\\Users\\b1nagmat2\\Desktop\\MAUI\\01 - SimpleMovieApp\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:04:05.987Z",
               "EditorCaption": ""
             }
           ]

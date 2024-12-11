@@ -6,6 +6,8 @@ public static class ConfigureDI
 	{
 		builder.Services.AddTransient<MainPageViewModel>();
 
+		builder.Services.AddTransient<IMovieService, MovieService>();
+
 		return builder;
 	}
 }

@@ -9,20 +9,20 @@
                 HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
                 Margin="50,0,50,0">
 
-        <Label Text="Movie data" HorizontalOptions="Center"/>
+        <Label Text="Movie data" HorizontalOptions="Center" Style="{x:StaticResource PageLabel}"/>
         <StackLayout>
-            <Label Text="Movie Title"/>
+            <Label Text="Movie Title" Style="{StaticResource NameLabel}"/>
             <Entry Text="{Binding Title}"/>
         </StackLayout>
 
         <StackLayout>
-            <Label Text="Movie length in minutes"/>
+            <Label Text="Movie length in minutes" Style="{StaticResource NameLabel}"/>
             <Entry Text="{Binding Length}"/>
         </StackLayout>
 
         <StackLayout>
-            <Label Text="Movie release date"/>
-            <DatePicker Date="{Binding Release}" MaximumDate="{Binding MaxDateTime}"/>
+            <Label Text="Movie release date" Style="{StaticResource NameLabel}"/>
+            <DatePicker Date="{Binding Release}" MaximumDate="{Binding MaxDateTime}" WidthRequest="{Binding DatePickerWidth}"/>
         </StackLayout>
         
         <Button Text="Submit" Command="{Binding OnSubmitCommand}"/>
