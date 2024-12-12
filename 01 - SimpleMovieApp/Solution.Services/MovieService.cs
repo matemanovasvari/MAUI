@@ -1,7 +1,4 @@
-﻿using Solution.Core.Models;
-using Solution.Database.Entities;
-
-namespace Solution.Services;
+﻿namespace Solution.Services;
 
 public class MovieService(AppDbContext dbContext) : IMovieService
 {
